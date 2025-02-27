@@ -1,0 +1,1 @@
+It's just a teszt repository to test if tensorflow is working properly on my machines.
