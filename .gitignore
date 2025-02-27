@@ -1,1 +1,3 @@
 .tf-metal-venv
+.venv
+.tf
